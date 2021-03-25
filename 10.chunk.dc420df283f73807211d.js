@@ -1,1 +1,0 @@
-(window.webpackJsonpVClerkWidget=window.webpackJsonpVClerkWidget||[]).push([[10],{13:function(e,d,c){"use strict";c.r(d),d.default=c.p+"fda7bbc9e8dde5d755acec56a43ca1ff.svg"}}]);
